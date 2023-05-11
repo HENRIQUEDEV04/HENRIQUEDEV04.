@@ -1,9 +1,9 @@
 <h1>Olá, eu sou o Henrique Módolo Lima</h1>
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
-- 💻 Procurando a primeira oportunidade de estagiar na área
+- 💻 Em busca da primeira oportunidade de estagiar na área da tecnologia
 - 🚹 Pronouns: ele/dele
 - 💭 Atualmente tenho conhecimentos básicos e teóricos
-sobre o mundo da tecnologia da informação e estou em 
-busca de fazer contatos e aprimorar meu perfil.
+sobre o mundo da tecnologia da informação, visando futuramente me profissionalizar 
+em front-end com foco em ux/ui designer.
 
