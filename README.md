@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Henrique Módolo Lima✌️</h1>
+<h1>Olá, eu sou o Henrique Módolo Lima</h1>
 
 - 📚 Cursando Análise e Desenvolvimento de Sistemas
 - 💻 Procurando a primeira oportunidade de estagiar na área
